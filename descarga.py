@@ -228,7 +228,7 @@ if __name__ == "__main__":
             elif opcion == "4":
                 print_header()
                 print("\n¡Hasta luego!")
-                print("\nGracias por usar YouTube Downloader Pro")
+                print("\nGracias por usar YouTube Video Downloader Pro")
                 break
                 
             else:
