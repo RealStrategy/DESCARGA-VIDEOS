@@ -22,7 +22,7 @@ def print_header():
     """Muestra el encabezado"""
     clear_screen()
     print("\n" + "="*50)
-    print(f" YouTube Downloader Pro".center(50))
+    print(f" YouTube Video Downloader Pro".center(50))
     print(f" Versión {VERSION} (TD)".center(50))
     print("="*50 + "\n")
 
